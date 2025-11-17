@@ -36,7 +36,8 @@ Colored boxes appear in each stage. They can be pushed through walls that match 
 
 - **Left / Right** – Move  
 - **Space** – Jump  
-- **R** – Restart level  
+- **R** – Restart level
+- **E** - Interact
 
 ---
 
