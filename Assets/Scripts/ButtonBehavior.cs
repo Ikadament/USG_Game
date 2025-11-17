@@ -36,11 +36,14 @@ public class ButtonBehavior : MonoBehaviour
         WallRight
     }
 
-    public ButtonPlacement placement = ButtonPlacement.Floor; // Par d�faut au sol
+    public ButtonPlacement placement = ButtonPlacement.Floor; // Par defaut au sol
 
     private void Start()
     {
         layers = LayerMask.GetMask("ground");
+
+        //unused springJoint 
+
         //springJoint = GetComponent<SpringJoint2D>();
 
         //// Initialise la position precedente et le connectedAnchor
@@ -54,16 +57,6 @@ public class ButtonBehavior : MonoBehaviour
 
     private void Update()
     {
-        //if (!isPlacedOnFloor)
-        //{
-        //    point = transform.position + Vector3.down * offset;
-        //    size = new Vector2(transform.localScale.x, transform.localScale.y - substractBoxValueY);
-        //} 
-        //else
-        //{
-        //    point = transform.position + Vector3.up * offset;
-        //    size = new Vector2(transform.localScale.x, transform.localScale.y - substractBoxValueY);
-        //}
 
         switch (placement)
         {
@@ -88,14 +81,14 @@ public class ButtonBehavior : MonoBehaviour
                 break;
         }
 
-        //// V�rifie si la position a chang� depuis la derni�re frame
+        //// Verifie si la position a change depuis la derniere frame
         //if ((Vector2)transform.position != lastPosition)
         //{
-        //    // Si oui, on met � jour le connectedAnchor
+        //    // Si oui, on met a jour le connectedAnchor
         //    if (springJoint != null && springJoint.connectedBody == null)
         //    {
         //        UpdateConnectedAnchor();
-        //        lastPosition = transform.position; // Mets � jour la position actuelle
+        //        lastPosition = transform.position; // Mets a jour la position actuelle
         //    }
         //}
     }

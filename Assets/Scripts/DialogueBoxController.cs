@@ -43,7 +43,7 @@ public class DialogueBoxController : MonoBehaviour
 
     public void DialoguePanelToPlayerPos(Vector2 npcPos)
     {
-        //Erreur : J'ai fait comme si la dialogue Box faisait partie de l'UI fixe qui change en fonction de la taille de l'�cran
+        //Erreur : J'ai fait comme si la dialogue Box faisait partie de l'UI fixe qui change en fonction de la taille de l'ecran
 
         //Vector2 screenPosition = RectTransformUtility.WorldToScreenPoint(Camera.main, npcPos);
         //screenPosition.y += dialoguePanelOffset; (dialoguePanelOffset etait un float de 90f)
