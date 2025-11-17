@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f29ebe7eec9359044a1ceb6315922768, type: 3}
+  m_Name: NpcEnd
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "This is it. It\u2019s over."
+  - "I\u2019m never going to find the exit. I\u2019m trapped here with my folks for
+    the rest of my life."
+  - I just wanted to see the sky again.
+  - We used to be people of the wild, now all we do is argue about meaningless things.
+    The cave changed us.
+  - " I just want some fresh ai\u2014\u2026oh. It\u2019s the final level, and it's
+    not even playable."
+  - Got It.
+  - "This is rather quite an Unfinished Square Game\u2122 if you want my humble and
+    sincere opinion."
+  - Could use an unnecessary subtitle or two.

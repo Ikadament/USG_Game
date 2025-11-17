@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Npc
+  - Door
+  - Button
+  - LevelLoaderMask
+  - Spikes
+  - MovingPlatform
+  - MovingSquareOrange
+  - PortalOrange
+  - PortalBleu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - PortalOne
+  - PortalTwo
+  - MovingObjectsOne
+  - MovingObjectsTwo
+  - Player
+  - Button
+  - BoxButton
+  - MovingPlatform
+  - Door
+  - Spikes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ObjectsBehind
+    uniqueID: 2668032879
+    locked: 0
+  - name: Objects
+    uniqueID: 2014348105
+    locked: 0
+  - name: Portals
+    uniqueID: 1743888251
+    locked: 0
+  - name: Foreground
+    uniqueID: 2038599711
+    locked: 0
+  - name: Button
+    uniqueID: 1635129755
+    locked: 0
+  - name: BoxButton
+    uniqueID: 1873661923
+    locked: 0
+  - name: DialogueBox
+    uniqueID: 580652117
+    locked: 0
+  - name: WiredLine
+    uniqueID: 2666605419
+    locked: 0
+  - name: Background
+    uniqueID: 2636445905
+    locked: 0
+  - name: E-button
+    uniqueID: 3678951707
+    locked: 0
+  - name: MiniE-button
+    uniqueID: 687426113
+    locked: 0
+  - name: Transition
+    uniqueID: 2822837077
+    locked: 0

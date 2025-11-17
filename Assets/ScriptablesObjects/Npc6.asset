@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f29ebe7eec9359044a1ceb6315922768, type: 3}
+  m_Name: Npc6
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Ugh, this GPS!
+  - I'm trying to reach the surface like everyone else, but it keeps messing with
+    me.
+  - 'It told me to turn left at the Grand Stalactite and continue for 100 meters
+    until the lake.
+
+'
+  - But I don't think it's been updated since the Great Landslide.
+  - '''Guess I''m stuck here like the rest of us.'

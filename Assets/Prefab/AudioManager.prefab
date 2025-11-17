@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5277949958779543000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4065131396924674065}
+  - component: {fileID: 2245569378168814099}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4065131396924674065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5277949958779543000}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.6993366, y: -0.7390226, z: 0.005731823}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2245569378168814099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5277949958779543000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcc41e1633c88a34cb6b49768238528f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Bg
+    clip: {fileID: 8300000, guid: 68dde672eb666bb4682fdd55eadbe6d2, type: 3}
+    volume: 0.5
+    pitch: 1
+    spatialBlend: 0.8
+    loop: 1
+    source: {fileID: 0}
+  - name: gold
+    clip: {fileID: 8300000, guid: 1ce0f8de7b46eb64cb4121f9890841b9, type: 3}
+    volume: 0.25
+    pitch: 0.9
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: pngTalk1
+    clip: {fileID: 8300000, guid: 14d7dbb5cf7d88a4aa21fad85634acbf, type: 3}
+    volume: 0.3
+    pitch: 1
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: pngTalk2
+    clip: {fileID: 8300000, guid: 7fbc265a9b7c16e44991f262a5f86deb, type: 3}
+    volume: 0.5
+    pitch: 1
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: buttonPressed
+    clip: {fileID: 8300000, guid: bc3b7d0f74043a049b26f9c5407c2b43, type: 3}
+    volume: 0.5
+    pitch: 1
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: change
+    clip: {fileID: 8300000, guid: 8870fe28105261841ac53d8a4b732782, type: 3}
+    volume: 0.5
+    pitch: 1
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: flag
+    clip: {fileID: 8300000, guid: a575bacdaf2e18c48913f3369f88c402, type: 3}
+    volume: 0.5
+    pitch: 1
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: die
+    clip: {fileID: 8300000, guid: 11ea115db7e648c40a91a255a4e53818, type: 3}
+    volume: 0.5
+    pitch: 1.5
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
+  - name: blockFall
+    clip: {fileID: 8300000, guid: c6680ac5874b8054080be00b70aa4db2, type: 3}
+    volume: 0.5
+    pitch: 1
+    spatialBlend: 0
+    loop: 0
+    source: {fileID: 0}
