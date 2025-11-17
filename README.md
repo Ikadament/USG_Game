@@ -40,6 +40,12 @@ Colored boxes appear in each stage. They can be pushed through walls that match 
 
 ---
 
+## All the main scripts I wrote are located in:
+
+Assets > Scripts
+
+---
+
 ## Technologies
 
 - Unity (2D)
