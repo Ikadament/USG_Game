@@ -8,7 +8,7 @@ This project is a short game featuring simple movement, platforming mechanics, a
 The game is available and playable directly in the browser on itch.io.
 
 **Play here:**  
-https://ikadam.itch.io/unfinishedsquaregame![Uploading image.png…]()
+https://ikadam.itch.io/unfinishedsquaregame
 
 
 ---
