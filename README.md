@@ -49,6 +49,6 @@ Colored boxes appear in each stage. They can be pushed through walls that match 
 
 ---
 
-## All the main scripts I wrote are located in:
+## All the main scripts are located in:
 
 Assets > Scripts
