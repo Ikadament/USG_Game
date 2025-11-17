@@ -1,5 +1,4 @@
-
-<img width="1920" height="1080" alt="USG_LogoV2" src="https://github.com/user-attachments/assets/e382da1d-24de-47f7-8c89-35541f89e382" />
+<img width="1920" height="1080" alt="USG_LogoV2" src="https://github.com/user-attachments/assets/0c87763a-b5aa-4077-9708-214247eb7fe1" />
 
 # "Unfinished Square Game With Unnecessary Subtitle"
 
@@ -28,6 +27,8 @@ Colored boxes appear in each stage. They can be pushed through walls that match 
 - Puzzle elements and small challenges  
 - Minimalist level design
 - Interactable NPC with (humorous?) dialogue
+
+<img width="1920" height="1080" alt="USG-itchscreen1" src="https://github.com/user-attachments/assets/b0d4e439-bad0-4a16-8a2c-2a4e0b38617a" />
 
 ---
 
